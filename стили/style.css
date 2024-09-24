@@ -1,0 +1,12 @@
+div {
+    background-color: pink;
+    display: inline-block;
+    align-self: center;
+}
+
+body {
+    background-image: url('https://bogatyr.club/uploads/posts/2023-01/1675006027_bogatyr-club-p-krasivie-pastelnie-tona-fon-vkontakte-3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
